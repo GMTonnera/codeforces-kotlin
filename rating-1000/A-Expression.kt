@@ -9,6 +9,7 @@ fun main(){
     if (a == 1 && b == 1 && c == 1) println(a + b + c)
     else if (a == 1 && b == 1) println((a + b) * c)
     else if (b == 1 && c == 1) println(a*(b + c))
+    else if (a == 1 && c == 1) println(a + b + c)
     else if (a == 1) println((a + b) * c) 
     else if (b == 1) {
         if (a > c) println(a*(b+c))
