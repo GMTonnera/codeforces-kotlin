@@ -1,1 +1,1 @@
-# kotlin-heroes
+# codeforces-kotlin
